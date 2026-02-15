@@ -17,6 +17,7 @@
         <PackageIcon>icon.png</PackageIcon>
         <RepositoryUrl>https://repos.mateuszskoczek.com/SimpleToolkit/SimpleToolkit.UI.WinUI.Behaviors</RepositoryUrl>
         <Description>Set of helpers, class extensions, UI controls used in my other C# projects - XAML action triggers for WinUI applications</Description>
+        <EnableWindowsTargeting>true</EnableWindowsTargeting>
     </PropertyGroup>
     
     <ItemGroup>
